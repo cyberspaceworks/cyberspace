@@ -1,0 +1,23 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+}
+h1 {
+	font-size: 36px;
+	color: #ff0000;
+	margin-top: 0;
+}
+p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+}
+a {
+	color: #0077cc;
+	text-decoration: none;
+}
+.list{
+	list-style: none;
+}
